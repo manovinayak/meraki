@@ -1,2 +1,2 @@
-# Meraki (To do something with soul, creativity or love. To put something of yourself into your work)
+# Meraki (done with one's soul, with creativity, effort and a lot of love)
 Personal website running on React, tailwindcss and Node.js.
